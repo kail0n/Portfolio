@@ -1,4 +1,5 @@
 import React from 'react'
+import './style.css'
 
 class About extends React.Component {
     render() {
@@ -21,7 +22,7 @@ class About extends React.Component {
                     <i className="devicon-express-original-wordmark"></i>
                     <i className="devicon-react-original-wordmark"></i>
                     <i className="devicon-redux-original"></i>
-                    <i className="devicon-webpack-plain-wordmark"></i>
+                    <i className="devicon-webpack-plain-wordmark"></i> <br></br>
                     <i className="devicon-babel-plain"></i>
                     <i className="devicon-postgresql-plain-wordmark"></i>
                     <i className="devicon-mongodb-plain-wordmark"></i>
@@ -30,9 +31,6 @@ class About extends React.Component {
                     <i className="devicon-heroku-original-wordmark"></i>
                     <i className="devicon-github-original-wordmark"></i>
                     <i className="devicon-git-plain-wordmark"></i>
-
-                </div>
-                <div id='experience'>
 
                 </div>
             </>
