@@ -4,6 +4,8 @@ import { Switch, Route } from 'react-router-dom'
 import { Header, Footer } from './layout'
 import { About, Home, Projects } from './pages'
 
+import './style.css'
+
 class App extends React.Component {
     render() {
       return (

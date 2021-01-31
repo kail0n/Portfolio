@@ -1,3 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    display: inline;
+    text-align: center;
+    justify-content: space-between;
+}
+
 .devicon-github-original {
     font-size: 3em;
 }
